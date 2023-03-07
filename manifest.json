@@ -1,0 +1,27 @@
+{
+    "background_color": "#ffffff",
+    "description": "DemoApp",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "anuragvohraec.github",
+    "orientation": "portrait",
+    "scope": "/job_portal_website/",
+    "short_name": "anuragvohraec.github",
+    "start_url": "/job_portal_website/",
+    "theme_color": "#00B074",
+    "categories": [],
+    "screenshots": [],
+    "icons": [{
+        "src": "/job_portal_website/img/android-icon-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png",
+        "density": "3.0"
+    },
+    {
+        "src": "/job_portal_website/img/android-icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "density": "3.0"
+    }],
+    "shortcuts": []
+}

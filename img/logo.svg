@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640.4386"
+   height="636.80334"
+   viewBox="0 0 169.44937 168.48756"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/anurag/Documents/freelancing/projects/sample_church_page/img/android-icon-512x512.png"
+   inkscape:export-xdpi="423.32999"
+   inkscape:export-ydpi="423.32999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="360px"
+     showborder="false"
+     inkscape:zoom="0.36569515"
+     inkscape:cx="-36.915994"
+     inkscape:cy="304.89877"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g845" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(17.117051,67.791551)">
+    <g
+       id="g845"
+       transform="matrix(4.8709443,0,0,4.8709443,-254.96622,-375.82594)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+      <path
+         style="fill:#000000;stroke-width:0.0543187"
+         id="path1418"
+         d="" />
+      <path
+         style="fill:#000000;stroke-width:0.0543187"
+         id="path1398"
+         d="" />
+      <path
+         style="fill:#000000;stroke-width:0.0543187"
+         id="path942"
+         d="" />
+      <rect
+         style="fill:#ffcc00;stroke:none;stroke-width:1.49704;stroke-linecap:round"
+         id="rect848"
+         width="32.733604"
+         height="32.036488"
+         x="49.428555"
+         y="64.316185"
+         rx="1.8476911"
+         ry="1.8476911" />
+      <text
+         xml:space="preserve"
+         style="font-size:1.1588px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;stroke-width:0.0543187"
+         x="60.455433"
+         y="81.471344"
+         id="text2792"><tspan
+           sodipodi:role="line"
+           id="tspan2790"
+           style="stroke-width:0.0543187"
+           x="60.455433"
+           y="81.471344" /></text>
+    </g>
+  </g>
+</svg>
